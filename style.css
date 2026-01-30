@@ -667,7 +667,7 @@ a:hover {
 }
 
 .contact-cta {
-    background: var(--color-primary));
+    background: #003d7a;
     padding: 2.5rem;
     border-radius: var(--radius-lg);
     color: white;
